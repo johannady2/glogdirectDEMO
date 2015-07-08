@@ -1,4 +1,4 @@
-	var glogOrViveg = 'g-log.co';
+	var glogOrViveg = 'coverview01.com';
 
     var networkstatus = '';
     var ref = null;
